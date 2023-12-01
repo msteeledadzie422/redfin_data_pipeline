@@ -5,7 +5,7 @@ Using Airflow hosted on an AWS EC2 Instance, raw Redfin data is pulled into an A
 
 Project composed with aid from tutorial ["Redfin Analytics|python ETL pipeline with airflow|Data Engineering Project|Snowpipe|Snowflake"](https://www.youtube.com/watch?v=NWZrBEnJ6Us) by Yemi Olani.
 
-### Airflow DAG Graph
+### Airflow DAGs Graph
 
 ![airflow_dags](assets/redfin_airflow_dags.png)
 
